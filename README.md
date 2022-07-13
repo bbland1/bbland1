@@ -35,9 +35,6 @@ Some non-code facts:
 <i>trying to decided if i'm suppose to code =========> finally getting a different error than before</i>
 </p>
 
-
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=bbland1&count_private=true&show_icons=true&theme=gruvbox" alt="bbland1" /></p>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbland1&layout=compact&theme=gruvbox" alt="bbland1" />
 </p>
