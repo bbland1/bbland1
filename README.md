@@ -4,11 +4,11 @@
 
 Coding was always something I told myself it would be cool to learn. I would dabble here and there but in 2022 I just went for it actually trying to learn. While it feels too much to say enjoyed every minute (*Stack OverFlow at 3 am would argue no enjoyment was there...just the focus of someone mad that they can find the right search term*) I haven't stopped coming back to the editor to try another problem or fix and issue I never thought I could figure out. It's been a journey that I am glad I am on.
 
-- 👩🏽‍💻 curently working on: a [to-do list](https://github.com/bbland1/To-Do-List) and a simple [blog](https://github.com/bbland1/blog) for bootcamp. these are both just the first version as we learn to connect database and more. I also like to work through a few of the Codecademy Full-stack Path, and I'm working on some more JavaScript pactice there.
+<!--- - 👩🏽‍💻 curently working on: Authenticaiton & Security part of my bootcamp! Gotta be secure! --->
 
-- 💻 currently learning: MongoDB & Mongoose, are the next steps!
+- 💻 currently learning: Authenticaiton & Security part of my bootcamp! Gotta be secure!
 
-- ✅ recently completed: just finished up a [newsletter sign-up](https://royal-donair-54847.herokuapp.com/) page using mailchimp ([github repo](https://github.com/bbland1/newsletter-signup))
+- ✅ recently completed: just finished up a simple [to-do list](https://github.com/bbland1/To-Do-List) ([github repo](https://github.com/bbland1/To-Do-List)) and the source code for the blog I was recently working on
 
 - 🤝 looking into starting the collaboration/open source channel if anyone has any suggetions!
 
