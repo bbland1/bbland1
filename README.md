@@ -1,5 +1,4 @@
 # hi i'm brianna (she/her) ✌🏽
-### a full-stack web developer 
 
 Coding was always something I told myself it would be cool to learn. I would dabble here and there but in 2022 I just went for it actually trying to learn. While it feels too much to say enjoyed every minute (*Stack OverFlow at 3 am would argue no enjoyment was there...just the focus of someone mad that they can find the right search term*) I haven't stopped coming back to the editor to try another problem or fix and issue I never thought I could figure out. It's been a journey that I am glad I am on.
 
