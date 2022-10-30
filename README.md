@@ -62,19 +62,19 @@ Click to go to the project, all repos can be found [here](https://github.com/bbl
 <br>
 <div align="center">
 <a href="http://so-its-shoujo.vercel.app/">
- <img title="So It's Shoujo" alt="" width="300px" src="https://user-images.githubusercontent.com/104288486/198900661-ae98b7cf-d455-4378-a3d5-426beb98fa26.png" />
+ <img title="So It's Shoujo" alt="" width="200px" src="https://user-images.githubusercontent.com/104288486/198900661-ae98b7cf-d455-4378-a3d5-426beb98fa26.png" />
 </a>
 <a href="https://pacific-headland-63101.herokuapp.com">
- <img title="Secrets, share annonomusly." alt="" width="300px" src="https://user-images.githubusercontent.com/104288486/198900979-7758fdd5-10cf-4abb-9b20-1a6165d1d7ca.png" />
+ <img title="Secrets, share annonomusly." alt="" width="200px" src="https://user-images.githubusercontent.com/104288486/198900979-7758fdd5-10cf-4abb-9b20-1a6165d1d7ca.png" />
 </a>
 <a href="https://serene-shore-54412.herokuapp.com">
- <img title="A Simple Todo List" alt="" width="300px" src="https://user-images.githubusercontent.com/104288486/198901332-3673d34f-d0e1-4b41-9885-f0f5141960cc.png" />
+ <img title="A Simple Todo List" alt="" width="200px" src="https://user-images.githubusercontent.com/104288486/198901332-3673d34f-d0e1-4b41-9885-f0f5141960cc.png" />
 </a>
 <a href="https://github.com/bbland1/Pomodoro-Timer#readme">
- <img title="Pomodoro Timer" alt="" width="275px" src="https://user-images.githubusercontent.com/104288486/198901454-c340b972-ea14-40a3-9e63-9f224c3ee58a.png" />
+ <img title="Pomodoro Timer" alt="" width="175px" src="https://user-images.githubusercontent.com/104288486/198901454-c340b972-ea14-40a3-9e63-9f224c3ee58a.png" />
 </a>
  <a href="https://noted-six.vercel.app">
- <img title="Noted, Google Keep Clone" alt="" width="300px" src="https://user-images.githubusercontent.com/104288486/198901552-5d035c83-4e76-4b6f-b4da-531dc9280fdd.png" />
+ <img title="Noted, Google Keep Clone" alt="" width="200px" src="https://user-images.githubusercontent.com/104288486/198901552-5d035c83-4e76-4b6f-b4da-531dc9280fdd.png" />
 </a>
 </div>
 
@@ -82,14 +82,14 @@ Click to go to the project, all repos can be found [here](https://github.com/bbl
 ### 📊 Various Github Stats
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bbland1&show_icons=true&theme=calm" height=180px/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bbland1&show_icons=true&theme=calm" height=150px/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbland1&layout=compact&theme=calm" height=180px/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbland1&layout=compact&theme=calm" height=150px/>
 </a>
   <br>
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=bbland1&theme=calm" height="200px">
+  <img src="https://streak-stats.demolab.com?user=bbland1&theme=calm" height="180px">
 </a>
   
 <p>Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.<p>
