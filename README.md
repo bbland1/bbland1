@@ -29,7 +29,7 @@ I'm a self-taught developer that enjoys taking things from thought bubble to fun
 ---
 <br>
 
-<img align="right" width="400" src="https://user-images.githubusercontent.com/104288486/198868214-72497a58-7cbd-4ac1-bc24-4cd78154f04f.png">
+<img align="right" width="300" src="https://user-images.githubusercontent.com/104288486/198868214-72497a58-7cbd-4ac1-bc24-4cd78154f04f.png">
 
 
 
