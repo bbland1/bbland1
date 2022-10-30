@@ -12,9 +12,18 @@ I'm a self-taught developer that enjoys taking things from idea to function.
 
 #
 ### Some Stats
-[![Brianna's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbland1&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" height=150px/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" height=150px/>
+</a>
+<p>Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.<p>
+<!-- [![Brianna's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbland1&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbland1&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
-Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+-->
+
 #
 
 <h2 align="center"> Languages and Tools</h2>
