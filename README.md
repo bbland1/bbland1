@@ -57,7 +57,7 @@ I'm a self-taught developer that enjoys taking things from thought bubble to fun
 
 #
 
-### Projects to checkout
+### 👀 Projects to checkout
 Click to go to the project, all repos can be found [here](https://github.com/bbland1?tab=repositories)!
 <br>
 <div align="center">
