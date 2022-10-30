@@ -1,26 +1,21 @@
-# hi i'm brianna (she/her) ✌🏽
+# ✌🏽 Brianna Bland
 
-Coding was always something I told myself it would be cool to learn. I would dabble here and there but in 2022 I just went for it actually trying to learn. While it feels too much to say enjoyed every minute (*Stack OverFlow at 3 am would argue no enjoyment was there...just the focus of someone mad that they can find the right search term*) I haven't stopped coming back to the editor to try another problem or fix and issue I never thought I could figure out. It's been a journey that I am glad I am on.
+**`Coding Architect (Software/Web Developer)`**
 
-Some non-code facts:
+I'm a self-taught developer that enjoys taking things from idea to function. 
+---
 
-- i have a BS in Chemistry 👩🏽‍🔬🧪
+<img src="https://user-images.githubusercontent.com/104288486/178684384-289eee37-ed44-49bd-8e4e-ef51c370186c.png"  width="300" height="250" align="right/>
 
-- my dogs are the best ❤️
+#
+### Languages & Tools
 
-- watching movies/ anime, playing video games, or reading manga are probably my favorite past times
-<br>
-<h2 align="center">
-✨ The Octocat reenactment of those 3 am nights: ✨
-</h2>
-<br>
-<p align="center">
-<img src="https://user-images.githubusercontent.com/104288486/178685829-eabd5558-3257-471d-8b5d-64fe81a2a278.png"  width="300" height="300">                               
-<img src="https://user-images.githubusercontent.com/104288486/178684384-289eee37-ed44-49bd-8e4e-ef51c370186c.png"  width="300" height="300">
-</p>
-<p align="center">
-<i>trying to decided if i'm suppose to code =========> finally getting a different error than before</i>
-</p>
+#
+### Some Stats
+[![Brianna's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbland1&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbland1&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
+Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+#
 
 <h2 align="center"> Languages and Tools</h2>
 <h5 align="center"> used in recent projects or the most familiarity with </h3>
