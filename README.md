@@ -53,8 +53,31 @@ I'm a self-taught developer that enjoys taking things from thought bubble to fun
 <code><img title="GitHub" alt="github" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
 </div>
 
-
 <br>
+
+#
+
+### Projects to checkout
+Click to go to the project, all repos can be found [here](https://github.com/bbland1?tab=repositories)!
+<br>
+<div align="center">
+<a href="http://so-its-shoujo.vercel.app/">
+ <img title="So It's Shoujo" alt="" width="300px" src="https://user-images.githubusercontent.com/104288486/198900661-ae98b7cf-d455-4378-a3d5-426beb98fa26.png" />
+</a>
+<a href="https://pacific-headland-63101.herokuapp.com">
+ <img title="Secrets, share annonomusly." alt="" width="300px" src="https://user-images.githubusercontent.com/104288486/198900979-7758fdd5-10cf-4abb-9b20-1a6165d1d7ca.png" />
+</a>
+<a href="https://serene-shore-54412.herokuapp.com">
+ <img title="A Simple Todo List" alt="" width="300px" src="https://user-images.githubusercontent.com/104288486/198901332-3673d34f-d0e1-4b41-9885-f0f5141960cc.png" />
+</a>
+<a href="https://github.com/bbland1/Pomodoro-Timer#readme">
+ <img title="Pomodoro Timer" alt="" width="275px" src="https://user-images.githubusercontent.com/104288486/198901454-c340b972-ea14-40a3-9e63-9f224c3ee58a.png" />
+</a>
+ <a href="https://noted-six.vercel.app">
+ <img title="Noted, Google Keep Clone" alt="" width="300px" src="https://user-images.githubusercontent.com/104288486/198901552-5d035c83-4e76-4b6f-b4da-531dc9280fdd.png" />
+</a>
+</div>
+
 
 ### 📊 Various Github Stats
 <div align="center">
@@ -71,5 +94,3 @@ I'm a self-taught developer that enjoys taking things from thought bubble to fun
   
 <p>Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.<p>
 </div>
-
-### 📊 Various Github Stats
