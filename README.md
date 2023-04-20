@@ -1,6 +1,6 @@
 # ✌🏽 Brianna Bland
 
-**`Coding Architect (Software/Web Developer)`**
+**`Coding Architect (Software Engineer)`**
 
 
 
