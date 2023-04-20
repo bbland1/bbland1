@@ -64,10 +64,10 @@ Click to go to the project, all repos can be found [here](https://github.com/bbl
 <a href="http://so-its-shoujo.vercel.app/">
  <img title="So It's Shoujo" alt="" width="200px" src="https://user-images.githubusercontent.com/104288486/198900661-ae98b7cf-d455-4378-a3d5-426beb98fa26.png" />
 </a>
-<a href="https://pacific-headland-63101.herokuapp.com">
+<a href="https://pacific-headland-63101.onrender.com">
  <img title="Secrets, share annonomusly." alt="" width="200px" src="https://user-images.githubusercontent.com/104288486/198900979-7758fdd5-10cf-4abb-9b20-1a6165d1d7ca.png" />
 </a>
-<a href="https://serene-shore-54412.herokuapp.com">
+<a href="https://serene-shore-54412.onrender.com">
  <img title="A Simple Todo List" alt="" width="200px" src="https://user-images.githubusercontent.com/104288486/198901332-3673d34f-d0e1-4b41-9885-f0f5141960cc.png" />
 </a>
 <a href="https://github.com/bbland1/Pomodoro-Timer#readme">
