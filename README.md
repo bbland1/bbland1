@@ -1,7 +1,7 @@
-# **`BRIANNA BLAND 🥼`**
+# **`BRIANNA BLAND`**
 
 `
-from chemistry to software engineering
+from chemistry 🥼 to software engineering 💻
 `
 
 I'm a self-taught developer that enjoys taking things from thought bubble to function. I want to make things that are useful and well design both visually and functionally. Coding is problem solving and getting into the flow of making something work and figuring out how to code it keeps me coming back to the editor. Coding isn't magic but it's the closest thing I have the super powers and I want to continue to make and do things that at one point mystified me. I want to push the knowledge I have to make something cool.
