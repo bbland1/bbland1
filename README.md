@@ -48,7 +48,7 @@ I'm a self-taught developer that enjoys taking things from thought bubble to fun
 
 <div style="display: grid;">
 <img style="grid-row: 1; grid-column: 1;" alt="Github Octopus Character" width="225px" src="https://user-images.githubusercontent.com/104288486/198868214-72497a58-7cbd-4ac1-bc24-4cd78154f04f.png" >
-<img alt="Github Stats" style="grid-row: 1; grid-column: 2/span 3; height:200px;" src="https://github-readme-stats.vercel.app/api?username=bbland1&theme=onedark&show_icons=true&show=prs_merged,prs_merged_percentage&rank_icon=github&include_all_commits=true&hide=issues" />
+<img alt="Github Stats" style="grid-row: 1; grid-column: 2/span 3; height:200px;" src="https://github-readme-stats.vercel.app/api?username=bbland1&theme=onedark&show_icons=true" />
 </div>
 
 <details>
