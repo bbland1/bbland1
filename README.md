@@ -1,4 +1,4 @@
-# **`BRIANNA BLAND`**
+![Brianna_Bland](https://github.com/user-attachments/assets/4d6cf090-820f-4b40-836a-bddc9e3571d1)
 
 `
 from chemistry 🥼 to software engineering 💻
