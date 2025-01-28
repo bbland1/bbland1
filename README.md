@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=500&color=2DBB07&vCenter=true&width=900&lines=%F0%9F%A7%AA+%E2%86%92+%F0%9F%92%BB+from+chemistry+to+software+engineering)](https://git.io/typing-svg)
 
-I'm a self-taught developer that enjoys taking things from thought bubble to function. I want to make things that are useful and well design both visually and functionally. Coding is problem solving and getting into the flow of making something work and figuring out how to code it keeps me coming back to the editor. Coding isn't magic but it's the closest thing I have the super powers and I want to continue to make and do things that at one point mystified me. I want to push the knowledge I have to make something cool.
+A developer that enjoys the problem solving that comes with software engineering. All iterations, ideations and the research put into to creating a good solution are just as important as the code to me. The goal is to make cool things while continuing to learn, and contribute to code that I enjoyed the problem solving and solution finding. 
 
 ## ➕ Connect with me
 
@@ -11,9 +11,12 @@ I'm a self-taught developer that enjoys taking things from thought bubble to fun
 
 ## 🧰 Languages & Tools
 
-<img alt="JavaScript" align="left" width="35px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
+<img alt="Go" align="left" width="35px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
 
 <img alt="TypeScript" align="left" width="35px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+
+<img alt="JavaScript" align="left" width="35px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
 <img alt="Python" align="left" width="35px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
